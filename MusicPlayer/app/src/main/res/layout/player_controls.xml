@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/player_controls"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+
+
+        >
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="96dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Medium Text"
+        android:id="@+id/tvSliderSong"
+        android:layout_above="@+id/btnPrevious"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="50dp"
+        android:layout_alignRight="@+id/btnNext"
+        android:layout_alignEnd="@+id/btnNext" />
+
+    <ImageButton
+        android:id="@+id/btnPrevious"
+        android:src="@drawable/ic_skip_previous_black_24dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:paddingRight="10sp"
+        android:paddingLeft="15sp"
+        android:onClick="Previous"
+        android:layout_alignTop="@+id/btnPlay"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <ImageButton
+    android:id="@+id/btnPlay"
+    android:src="@drawable/ic_play_arrow_black_24dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@null"
+    android:paddingRight="15sp"
+    android:paddingLeft="15sp"
+    android:onClick="Play"
+        android:layout_below="@+id/imageView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="179dp" />
+
+    <ImageButton
+    android:id="@+id/btnNext"
+    android:src="@drawable/ic_skip_next_black_24dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@null"
+    android:paddingLeft="10sp"
+    android:paddingRight="15sp"
+    android:onClick="Next"
+        android:layout_alignTop="@+id/btnPlay"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+
+</RelativeLayout>

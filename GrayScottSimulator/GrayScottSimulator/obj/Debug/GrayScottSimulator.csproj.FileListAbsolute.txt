@@ -1,0 +1,16 @@
+D:\assignmensOOSD\IN710gardits1\GrayScottSimulator\GrayScottSimulator\bin\Debug\GrayScottSimulator.exe.config
+D:\assignmensOOSD\IN710gardits1\GrayScottSimulator\GrayScottSimulator\bin\Debug\GrayScottSimulator.exe
+D:\assignmensOOSD\IN710gardits1\GrayScottSimulator\GrayScottSimulator\bin\Debug\GrayScottSimulator.pdb
+D:\assignmensOOSD\IN710gardits1\GrayScottSimulator\GrayScottSimulator\obj\Debug\GrayScottSimulator.csprojResolveAssemblyReference.cache
+D:\assignmensOOSD\IN710gardits1\GrayScottSimulator\GrayScottSimulator\obj\Debug\GrayScottSimulator.Form1.resources
+D:\assignmensOOSD\IN710gardits1\GrayScottSimulator\GrayScottSimulator\obj\Debug\GrayScottSimulator.Properties.Resources.resources
+D:\assignmensOOSD\IN710gardits1\GrayScottSimulator\GrayScottSimulator\obj\Debug\GrayScottSimulator.csproj.GenerateResource.Cache
+D:\assignmensOOSD\IN710gardits1\GrayScottSimulator\GrayScottSimulator\obj\Debug\GrayScottSimulator.exe
+D:\assignmensOOSD\IN710gardits1\GrayScottSimulator\GrayScottSimulator\obj\Debug\GrayScottSimulator.pdb
+D:\assignmensOOSD\IN710gardits1\Assignments\GrayScottSimulator\GrayScottSimulator\bin\Debug\GrayScottSimulator.exe.config
+D:\assignmensOOSD\IN710gardits1\Assignments\GrayScottSimulator\GrayScottSimulator\obj\Debug\GrayScottSimulator.exe
+D:\assignmensOOSD\IN710gardits1\Assignments\GrayScottSimulator\GrayScottSimulator\obj\Debug\GrayScottSimulator.pdb
+D:\assignmensOOSD\IN710gardits1\Assignments\GrayScottSimulator\GrayScottSimulator\obj\Debug\GrayScottSimulator.csprojResolveAssemblyReference.cache
+D:\assignmensOOSD\IN710gardits1\Assignments\GrayScottSimulator\GrayScottSimulator\obj\Debug\GrayScottSimulator.Form1.resources
+D:\assignmensOOSD\IN710gardits1\Assignments\GrayScottSimulator\GrayScottSimulator\obj\Debug\GrayScottSimulator.Properties.Resources.resources
+D:\assignmensOOSD\IN710gardits1\Assignments\GrayScottSimulator\GrayScottSimulator\obj\Debug\GrayScottSimulator.csproj.GenerateResource.Cache
